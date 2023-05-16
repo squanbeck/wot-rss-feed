@@ -5,11 +5,9 @@
         <description>Titles of sermons for Word of Truth sign</description>
         <item>
             <title>Sermon 1</title>
-            <description>Description of Sermon 1</description>
         </item>
         <item>
             <title>Sermon 2</title>
-            <description>Description of Sermon 2</description>
         </item>
     </channel>
 </rss>
